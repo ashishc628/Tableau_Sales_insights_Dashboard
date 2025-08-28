@@ -1,3 +1,8 @@
+## Tableau Dashboard
+
+![alt text](http://url/to/img.png)
+
+
 ## Sales Insights Data Analysis Project
 
 
