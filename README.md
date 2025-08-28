@@ -1,6 +1,6 @@
 ## Tableau Dashboard
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/ashishc628/Tableau_Sales_insights_Dashboard/blob/main/Dashboard.jpg)
 
 
 ## Sales Insights Data Analysis Project
